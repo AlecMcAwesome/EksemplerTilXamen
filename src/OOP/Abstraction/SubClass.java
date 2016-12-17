@@ -6,5 +6,4 @@ package OOP.Abstraction;
 public class SubClass extends AbstractTestClass {
 
 
-
 }
